@@ -25,9 +25,12 @@ h1{
     margin-bottom: 0;
 }
 
-p{
-    margin: 0;
+.info{
     color: grey;
+    margin: 0;
+}
+.written{
+    margin: 0;
 }
 
 .name{
@@ -36,6 +39,7 @@ p{
 
 .data{
     font-size: small;
+    margin-top: 0;
     margin-bottom: 20px;
 }
 
@@ -51,4 +55,5 @@ p{
 
 .descrizione-foto{
     font-size: x-small;
+    margin: 0;
 }
