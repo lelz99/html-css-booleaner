@@ -7,6 +7,7 @@ body{
     margin: 0 auto;
 }
 
+/* header */
 .images{
     background-color: rgb(78, 193, 232);
     background-image: url(../img/pattern.png);
@@ -35,4 +36,19 @@ p{
 
 .data{
     font-size: small;
+    margin-bottom: 20px;
+}
+
+/* section immagini tim berners */
+
+.foto1-tim{
+    width: 51%;
+}
+
+.foto2-tim{
+    width: 43%;
+}
+
+.descrizione-foto{
+    font-size: x-small;
 }
