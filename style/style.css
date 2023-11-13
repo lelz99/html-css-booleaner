@@ -94,3 +94,29 @@ tbody{
 .white{
     background-color: white;
 }
+
+/* section altri interessi */
+
+h3{
+    color: gray;
+}
+
+.monitor{
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+}
+
+.graph{
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+}
+
+.text{
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+}
+
