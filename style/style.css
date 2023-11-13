@@ -70,25 +70,23 @@ ul{
 
 /* section table */
 
+table{
+    border-collapse: collapse;
+    background-color: #00ffff5c;
+}
+
 thead{
     text-align: left;
     background-color: dodgerblue;
     color: white;
 }
 
-tbody{
-    background-color: #00ffff5c;
-}
-.lorem1{
-    width: 25%;
+.cella-lorem{
+    width: 250px;
 }
 
-.lorem2{
-    width: 25%;
-}
-
-.lorem3{
-    width: 50%;
+.cella-testo{
+    width: 500px;
 }
 
 .white{
@@ -119,4 +117,3 @@ h3{
     color: white;
     padding: 10px;
 }
-
