@@ -57,3 +57,14 @@ h1{
     font-size: x-small;
     margin: 0;
 }
+
+/* section paragrafo e lista */
+
+.evidenziare{
+    background-color: yellow;
+}
+
+ul{
+    padding-left: 16px;
+}
+
