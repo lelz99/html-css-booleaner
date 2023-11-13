@@ -68,3 +68,29 @@ ul{
     padding-left: 16px;
 }
 
+/* section table */
+
+thead{
+    text-align: left;
+    background-color: dodgerblue;
+    color: white;
+}
+
+tbody{
+    background-color: #00ffff5c;
+}
+.lorem1{
+    width: 25%;
+}
+
+.lorem2{
+    width: 25%;
+}
+
+.lorem3{
+    width: 50%;
+}
+
+.white{
+    background-color: white;
+}
